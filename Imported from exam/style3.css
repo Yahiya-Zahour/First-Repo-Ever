@@ -1,0 +1,45 @@
+body{
+    background-image: url(./ankhurr-chawaak-oc2230_8clc-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+
+}
+nav{
+    box-shadow: 0 0 0 1px white;
+    color: white;
+    border: 1px solid white;
+    border-radius: 0px 19px 0px 19px;
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 10px 0 10px 0;
+    margin: 10px;
+    color:white;
+}
+a:hover{
+    color: darkgoldenrod;
+    text-decoration: none;
+    color: darkred;
+    
+    
+}
+
+.cr7 img
+{
+    border-radius: 50%;
+    opacity: 0.9;
+
+}
+.cr72{
+    margin-top: 90px;
+    margin-left: 350px;
+    box-shadow:0 0 0 2px honeydew;
+    text-align: center;
+    border-radius:0 40px 0 40px ;
+    width: 50%;
+}
