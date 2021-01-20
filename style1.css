@@ -1,0 +1,29 @@
+h1{
+    color:darkred;
+    background-color: rgb(28, 2, 43);
+    border: 10px solid black;
+    border-radius: 0px 0px 70px 70px;
+    opacity:0.6;
+    text-align: center;
+}
+body{
+background-image:
+ url(./images/b87f92659e1b862ef0212086e6af7efc.jpg ) ,
+ url(./images/coffee-2425303_960_720.webp);
+background-size: 50% 100%;
+background-repeat: no-repeat,no-repeat;
+background-position: center left,100% 0%;
+}
+figure{
+    
+    opacity: 0.4;
+    border:3px darkred solid;
+    display: inline-block;
+}
+h2{
+    color: black;
+    text-align: center;
+    border:4px ridge rgb(28, 2, 43);
+    opacity: 0.9;
+}
+
